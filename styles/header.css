@@ -17,6 +17,10 @@ header{
 .navigation-menu{
     padding: 24px;
 }
+
+input[type="checkbox"]:checked ~ nav{
+    display: block;
+}
 nav{
     display: none;
 }
