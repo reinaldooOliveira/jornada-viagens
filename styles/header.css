@@ -14,6 +14,9 @@ header{
     margin: 37px 0 0 48px;
 }
 
+.navigation-menu{
+    padding: 24px;
+}
 nav{
     display: none;
 }
